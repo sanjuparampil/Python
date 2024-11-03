@@ -1,4 +1,3 @@
-# Python
 
 # 3-Month Python Learning Roadmap
 # Month 1: Foundations
