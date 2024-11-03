@@ -1,64 +1,64 @@
 # Python
-3 month python learning
-3-Month Python Learning Roadmap
+
+# 3-Month Python Learning Roadmap
 # Month 1: Foundations
-- Week 1: Setup and Basic Syntax
-Days 1-2: Environment Setup
+# Week 1: Setup and Basic Syntax
+- Days 1-2: Environment Setup
 
-Install Python and VS Code
-Learn to use terminal/command prompt
-Setup Git for version control
-Resources:
-Official Python Download
-VS Code Setup Guide: Python in VS Code
-Git Basics Tutorial
+- Install Python and VS Code
+- Learn to use terminal/command prompt
+- Setup Git for version control
+- Resources:
+- Official Python Download
+- VS Code Setup Guide: Python in VS Code
+- Git Basics Tutorial
+  
+# Days 3-7: Python Basics
 
-Days 3-7: Python Basics
+- Variables and data types
+- Basic operators
+- Input/output operations
+- String manipulation
+- Resources:
+- Python.org Tutorial
+- Interactive Course: Codecademy Python Track
+- Practice: Python Principles
 
-Variables and data types
-Basic operators
-Input/output operations
-String manipulation
-Resources:
-Python.org Tutorial
-Interactive Course: Codecademy Python Track
-Practice: Python Principles
+# Week 2: Control Flow
 
-Week 2: Control Flow
+- If statements
+- Loops (while and for)
+- Break and continue statements
+- Basic error handling
+- Resources:
+- Real Python Control Flow
+- Practice: CodingBat Python
+- W3Schools Python Control Flow
 
-If statements
-Loops (while and for)
-Break and continue statements
-Basic error handling
-Resources:
-Real Python Control Flow
-Practice: CodingBat Python
-W3Schools Python Control Flow
+# Week 3: Functions and Modules
 
-Week 3: Functions and Modules
+- Function definition and calls
+- Parameters and return values
+- Lambda functions
+- Built-in modules
+- Resources:
+- Python Functions Tutorial
+- Practice: Exercism - Python Track
+- Python Module Documentation
 
-Function definition and calls
-Parameters and return values
-Lambda functions
-Built-in modules
-Resources:
-Python Functions Tutorial
-Practice: Exercism - Python Track
-Python Module Documentation
+# Week 4: Data Structures
 
-Week 4: Data Structures
+- Lists and list comprehensions
+- Dictionaries
+- Sets and tuples
+- Basic algorithms with data structures
+- Resources:
+- Python Data Structures
+- Practice: HackerRank Python
+- Real Python Data Structures
 
-Lists and list comprehensions
-Dictionaries
-Sets and tuples
-Basic algorithms with data structures
-Resources:
-Python Data Structures
-Practice: HackerRank Python
-Real Python Data Structures
-
-Month 2: Intermediate Concepts
-Week 5: File Operations & Error Handling
+# Month 2: Intermediate Concepts
+# Week 5: File Operations & Error Handling
 
 Reading and writing files
 Working with CSV and JSON
@@ -69,7 +69,7 @@ Python File Handling
 Working with JSON
 Practice: Create a simple data processing script
 
-Week 6: Object-Oriented Programming
+# Week 6: Object-Oriented Programming
 
 Classes and objects
 Inheritance
@@ -80,7 +80,7 @@ Python OOP Tutorial
 Object-Oriented Programming (OOP) in Python 3
 Practice: Design a simple banking system
 
-Week 7: Advanced Built-in Functions
+# Week 7: Advanced Built-in Functions
 
 Map, filter, reduce
 Decorators
@@ -91,7 +91,7 @@ Python Functional Programming
 Python Decorators
 Practice: Create utility functions for data processing
 
-Week 8: Working with External Libraries
+# Week 8: Working with External Libraries
 
 pip and virtual environments
 Pandas basics
@@ -102,8 +102,8 @@ Python Virtual Environments
 Pandas Tutorial
 Practice: Build a data analysis script
 
-Month 3: Projects and Advanced Topics
-Week 9: Web Development Basics
+# Month 3: Projects and Advanced Topics
+# Week 9: Web Development Basics
 
 Flask framework introduction
 Basic HTML/CSS
@@ -114,7 +114,7 @@ Flask Tutorial
 REST API with Flask
 Project: Create a personal blog/portfolio website
 
-Week 10: Database Integration
+# Week 10: Database Integration
 
 SQLite basics
 SQL queries
@@ -125,7 +125,7 @@ SQLite Tutorial
 SQLAlchemy Tutorial
 Project: Build a task management application
 
-Week 11: Testing and Documentation
+# Week 11: Testing and Documentation
 
 Unit testing with pytest
 Documentation with docstrings
@@ -136,7 +136,7 @@ Python Testing with pytest
 Python Documentation
 Project: Add tests to previous projects
 
-Week 12: Final Project
+# Week 12: Final Project
 
 Choose a project that combines multiple concepts
 Implementation
@@ -148,7 +148,7 @@ E-commerce system
 Data analysis dashboard
 Social media bot
 
-Daily Practice Tips
+# Daily Practice Tips
 
 Start each session with a 5-minute review of previous concepts
 Spend 40 minutes on new material
